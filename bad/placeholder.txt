@@ -1,0 +1,1 @@
+This is the bad or corrupt file directory. If there are problems during conversion the source file will be placed in this directory.
