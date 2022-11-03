@@ -32,7 +32,7 @@ Usage:
 1. Clone the repo
 ```terminal
 cd ~
-https://github.com/bradsec/fontconvert.git
+git clone https://github.com/bradsec/fontconvert.git
 cd fontcovert
 ```
 2. Make script executable
