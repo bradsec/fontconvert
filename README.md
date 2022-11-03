@@ -54,7 +54,7 @@ The files will be converted and saved in the `/fontconvert/dst` directory.
 
 The fontforge package must be installed. Visit https://fontforge.org or https://github.com/fontforge/fontforge for more information.
 
-- Linux install
+- Debian/Ubuntu Linux install
 ```terminal
 sudo apt install fontforge
 ```
