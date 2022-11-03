@@ -35,7 +35,7 @@ Usage:
 ```terminal
 cd ~
 git clone https://github.com/bradsec/fontconvert.git
-cd fontcovert
+cd fontconvert
 ```
 2. Make script executable
 ```terminal
