@@ -41,7 +41,7 @@ cd fontcovert
 ```terminal
 chmod +x fontconvert.sh
 ```
-3. Copy fonts to be converted into the `/fontconvert/src` directory.
+3. **Copy fonts to be converted into the `/fontconvert/src` directory.**
 
 4. Run the script
 ```terminal
