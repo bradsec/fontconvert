@@ -9,6 +9,8 @@ By default new converted file names will be changed to lowercase and cleaned up 
 
 Any font files which cannot be converted due to being invalid, bad or corrupt files will be moved to the configured `config[badDir]` directory which by default is `./bad`.
 
+To enable a recursive search of the source directory increase the `config[maxDepth]` from 1.
+
 ### Usage
 ```terminal
 FONTCONVERT (for use with fontforge)
