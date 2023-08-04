@@ -4,6 +4,7 @@
 ## Name:          fontconvert.sh                                                  ##
 ## Description:   A bash script to batch convert between otf <==> ttf font types  ##
 ## Requirements:  Bash >= version 4 and fontforge (https://fontforge.org)         ##
+## Webpage     :    https://github.com/bradsec/fontconvert                        ##
 ####################################################################################
 
 shopt -s nullglob
